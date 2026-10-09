@@ -1,0 +1,36 @@
+{
+  "name": "8001_V22",
+  "source": "outputs/exportaciones-navisworks/8001_V22.fbx",
+  "bytes": 584943820,
+  "geometryMeshes": 63081,
+  "meshInstances": 83674,
+  "uniqueGeometryTriangles": 12693875,
+  "originalUniqueTriangles": 44424722,
+  "displaySimplification": {
+    "targetRatio": 0.12,
+    "maxErrorSourceUnits": 0.01,
+    "originalFbxPreserved": true
+  },
+  "polygons": 44424722,
+  "degenerateFaces": 0,
+  "linkedActivities": 962,
+  "unlinkedMeshes": 10575,
+  "missingActivities": [],
+  "sourceBounds": {
+    "min": [
+      89390.23834983235,
+      103529.38188786549,
+      2497.550001489257
+    ],
+    "max": [
+      89654.31480764484,
+      103892.31605104909,
+      2575.4033290156995
+    ]
+  },
+  "omittedCurveGeometry": 111,
+  "activityGroups": 972,
+  "renderedTriangles": 31742130,
+  "compressedBytes": 142586406,
+  "geometryOptimization": "Display LOD grouped by activity; see displaySimplification for source reduction"
+}

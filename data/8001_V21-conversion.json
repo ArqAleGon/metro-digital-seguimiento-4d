@@ -1,0 +1,217 @@
+{
+  "name": "8001_V21",
+  "source": "outputs/exportaciones-navisworks/8001_V21.fbx",
+  "bytes": 367336872,
+  "geometryMeshes": 52140,
+  "meshInstances": 63766,
+  "uniqueGeometryTriangles": 9972319,
+  "originalUniqueTriangles": 26595808,
+  "displaySimplification": {
+    "targetRatio": 0.12,
+    "maxErrorSourceUnits": 0.01,
+    "originalFbxPreserved": true
+  },
+  "polygons": 26595808,
+  "degenerateFaces": 0,
+  "linkedActivities": 967,
+  "unlinkedMeshes": 692,
+  "missingActivities": [
+    {
+      "id": "EM02VDPLS1000",
+      "name": "Pilotes (3+440 a 3+600)"
+    },
+    {
+      "id": "EM02NV1050",
+      "name": "Estructura de cubierta"
+    },
+    {
+      "id": "EM02NV1065",
+      "name": "Malla puesta tierra"
+    },
+    {
+      "id": "EM02NV1070-2",
+      "name": "CDE (Corrientes debiles)"
+    },
+    {
+      "id": "EM02NV1070-3",
+      "name": "PCI (Proteccion contra incendios)"
+    },
+    {
+      "id": "EM02NV1070-5",
+      "name": "MEC (Equipo mecanico y aire acondicionado)"
+    },
+    {
+      "id": "EM02NV1070-6",
+      "name": "Aparatos de Circulacion vertical"
+    },
+    {
+      "id": "EM02NV1080",
+      "name": "Conexiones e Instalacion Redes de Servicios Publicos"
+    },
+    {
+      "id": "EM02UBPDT1000",
+      "name": "Produccion de tableros (3+440 a 3+600)"
+    },
+    {
+      "id": "WF1VDINF1100",
+      "name": "Via ferrea (K3+440 - K3+760) E02-01 E02-09 a S03-05 (E2)"
+    },
+    {
+      "id": "IE01UBINS1020",
+      "name": "Instalacion de vigas UBEAM (3+040 a 3+440)"
+    },
+    {
+      "id": "IE02UBINS1000",
+      "name": "Instalacion de vigas UBEAM (3+600 a 3+680) E02-09 a S03-03"
+    },
+    {
+      "id": "EM02NV1175",
+      "name": "Vigas metalicas para plataforma"
+    },
+    {
+      "id": "EM02NV1180",
+      "name": "Plataforma de abordaje"
+    },
+    {
+      "id": "EM02NV1040",
+      "name": "Estructura Metalica de Cubierta"
+    },
+    {
+      "id": "EM02AB1AS1010",
+      "name": "Pilotes"
+    },
+    {
+      "id": "EM02AB1AS1030",
+      "name": "Dados y losa de nivel de acceso"
+    },
+    {
+      "id": "EM02AB1AS1050",
+      "name": "Estructura Metalica Pasarelas EDA1"
+    },
+    {
+      "id": "EM02AB1AS1060",
+      "name": "MEP"
+    },
+    {
+      "id": "EM02AB1AS1070",
+      "name": "Fachada"
+    },
+    {
+      "id": "EM02AB1AS1200",
+      "name": "Acabados interiores"
+    },
+    {
+      "id": "EM02AB1AS1080",
+      "name": "Urbanismo, Espacio Publico y Paisajismo"
+    },
+    {
+      "id": "EM02AB2AS1110",
+      "name": "Pilotes"
+    },
+    {
+      "id": "EM02AB2AS1110-003-101",
+      "name": "Contruccion nucleo pilote G3"
+    },
+    {
+      "id": "EM02AB2AS1210",
+      "name": "Muros pantalla"
+    },
+    {
+      "id": "EM02AB2AS1130",
+      "name": "Dados y losa de cimentacion"
+    },
+    {
+      "id": "EM02AB2AS1140",
+      "name": "Superestructura edificio"
+    },
+    {
+      "id": "EM02AB2AS1150",
+      "name": "Pasarelas"
+    },
+    {
+      "id": "EM02AB2AS1160",
+      "name": "MEP"
+    },
+    {
+      "id": "EM02AB2AS1170",
+      "name": "Fachada"
+    },
+    {
+      "id": "EM02AB2AS1230",
+      "name": "Acabados Arquitectonicos"
+    },
+    {
+      "id": "EM02AB2AS1180",
+      "name": "Urbanismo, Espacio Publico y Paisajismo"
+    },
+    {
+      "id": "TESCTE1000",
+      "name": "CTE - Pruebas"
+    },
+    {
+      "id": "EM02AB1AS1090",
+      "name": "Edificio de acceso ascendente 1 - Instalacion de equipos (Sistema de Peaje)"
+    },
+    {
+      "id": "EM02AB1AS1190",
+      "name": "Edificio de acceso ascendente 2 - Instalacion de equipos (Sistema de Peaje)"
+    },
+    {
+      "id": "TESPEA1020",
+      "name": "Estacion 2 - Sistema de Peaje - Pruebas"
+    },
+    {
+      "id": "TESDOS1020",
+      "name": "Estacion 2 - Sistema de puertas de anden - Pruebas"
+    },
+    {
+      "id": "VDCOS1040",
+      "name": "Estacion 2 - Instalacion de Sistemas de Telecomunicaciones"
+    },
+    {
+      "id": "TESCOS1050",
+      "name": "Estacion 2 - Pruebas de Sistemas de Telecomunicaciones"
+    },
+    {
+      "id": "VDCOS1210",
+      "name": "Estacion 2 - Instalacion de Sistemas de Radiocomunicaciones"
+    },
+    {
+      "id": "TESCOS1220",
+      "name": "Estacion 2 - Pruebas de Sistemas de Radiocomunicaciones"
+    },
+    {
+      "id": "VDSCS1030",
+      "name": "Estacion 2 - Instalacion de Sistemas de Control y Supervision"
+    },
+    {
+      "id": "TESSCS1030",
+      "name": "Estacion 2 - Pruebas de Sistemas de Control y Supervision"
+    },
+    {
+      "id": "WF1VDTLI1000",
+      "name": "Instalacion traccion lineal (K0+000 a K5+760)"
+    },
+    {
+      "id": "VDSIT1070",
+      "name": "Estacion 2 - Instalacion sistema de Señalizacion y control de trenes  y prueba de los equipos"
+    }
+  ],
+  "sourceBounds": {
+    "min": [
+      89390.23834983235,
+      103529.38188786549,
+      2497.550001489257
+    ],
+    "max": [
+      89654.31480764484,
+      103892.31605104909,
+      2568.411220008882
+    ]
+  },
+  "omittedCurveGeometry": 111,
+  "activityGroups": 968,
+  "renderedTriangles": 21326749,
+  "compressedBytes": 81575945,
+  "geometryOptimization": "Display LOD grouped by activity; see displaySimplification for source reduction"
+}

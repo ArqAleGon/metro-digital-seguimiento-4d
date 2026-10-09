@@ -1,0 +1,143 @@
+{
+  "name": "3001",
+  "source": "outputs/exportaciones-navisworks/3001.fbx",
+  "bytes": 130395096,
+  "geometryMeshes": 9604,
+  "meshInstances": 11847,
+  "uniqueGeometryTriangles": 6304781,
+  "polygons": 6304781,
+  "degenerateFaces": 0,
+  "linkedActivities": 466,
+  "unlinkedMeshes": 1491,
+  "missingActivities": [
+    {
+      "id": "EM02VDPLS1000",
+      "name": "Pilotes (3+440 a 3+600)"
+    },
+    {
+      "id": "EM02NV1050",
+      "name": "Estructura de cubierta"
+    },
+    {
+      "id": "EM02NV1080",
+      "name": "Conexiones e Instalacion Redes de Servicios Publicos"
+    },
+    {
+      "id": "EM02NV1070",
+      "name": "MEP (Electricos, Mecanicos, Hidrosanitarios)"
+    },
+    {
+      "id": "EM02NV1150",
+      "name": "Trabajos Arquitectonicos (Fachadas, Cerramientos, Cubierta, Pintura, Acabados, Piso, Techo)"
+    },
+    {
+      "id": "EM02AB1AS1060",
+      "name": "MEP"
+    },
+    {
+      "id": "EM02AB1AS1070",
+      "name": "Fachada"
+    },
+    {
+      "id": "EM02AB1AS1200",
+      "name": "Acabados interiores"
+    },
+    {
+      "id": "EM02AB1AS1080",
+      "name": "Urbanismo, Espacio Publico y Paisajismo"
+    },
+    {
+      "id": "EM02AB2AS1110",
+      "name": "Pilotes"
+    },
+    {
+      "id": "EM02AB2AS1210",
+      "name": "Muros pantalla"
+    },
+    {
+      "id": "EM02AB2AS1150",
+      "name": "Pasarelas"
+    },
+    {
+      "id": "EM02AB2AS1160",
+      "name": "MEP"
+    },
+    {
+      "id": "EM02AB2AS1170",
+      "name": "Fachada"
+    },
+    {
+      "id": "EM02AB2AS1230",
+      "name": "Acabados Arquitectonicos"
+    },
+    {
+      "id": "EM02AB2AS1180",
+      "name": "Urbanismo, Espacio Publico y Paisajismo"
+    },
+    {
+      "id": "PTTMM1035",
+      "name": "CTE instalacion"
+    },
+    {
+      "id": "TESCTE1000",
+      "name": "CTE - Pruebas"
+    },
+    {
+      "id": "EM02AB1AS1090",
+      "name": "Edificio de acceso ascendente 1 - Instalacion de equipos (Sistema de Peaje)"
+    },
+    {
+      "id": "EM02AB1AS1190",
+      "name": "Edificio de acceso ascendente 2 - Instalacion de equipos (Sistema de Peaje)"
+    },
+    {
+      "id": "TESPEA1020",
+      "name": "Estacion 2 - Sistema de Peaje - Pruebas"
+    },
+    {
+      "id": "EM02NV1100",
+      "name": "Estacion 2 - Instalacion de equipos (Puertas de anden)"
+    },
+    {
+      "id": "TESDOS1020",
+      "name": "Estacion 2 - Sistema de puertas de anden - Pruebas"
+    },
+    {
+      "id": "VDCOS1040",
+      "name": "Estacion 2 - Instalacion de Sistemas de Telecomunicaciones"
+    },
+    {
+      "id": "TESCOS1050",
+      "name": "Estacion 2 - Pruebas de Sistemas de Telecomunicaciones"
+    },
+    {
+      "id": "VDCOS1210",
+      "name": "Estacion 2 - Instalacion de Sistemas de Radiocomunicaciones"
+    },
+    {
+      "id": "TESCOS1220",
+      "name": "Estacion 2 - Pruebas de Sistemas de Radiocomunicaciones"
+    },
+    {
+      "id": "VDSCS1030",
+      "name": "Estacion 2 - Instalacion de Sistemas de Control y Supervision"
+    },
+    {
+      "id": "TESSCS1030",
+      "name": "Estacion 2 - Pruebas de Sistemas de Control y Supervision"
+    }
+  ],
+  "sourceBounds": {
+    "min": [
+      89390.23834983235,
+      103529.38188786549,
+      2497.550001489257
+    ],
+    "max": [
+      89654.31480764484,
+      103892.31605104909,
+      2568.3439872802724
+    ]
+  },
+  "omittedCurveGeometry": 70
+}

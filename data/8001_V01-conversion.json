@@ -1,0 +1,175 @@
+{
+  "name": "8001_V01",
+  "source": "outputs/exportaciones-navisworks/8001_V01.fbx",
+  "bytes": 56491620,
+  "geometryMeshes": 6481,
+  "meshInstances": 8274,
+  "uniqueGeometryTriangles": 2463026,
+  "polygons": 2463026,
+  "degenerateFaces": 0,
+  "linkedActivities": 322,
+  "unlinkedMeshes": 1,
+  "missingActivities": [
+    {
+      "id": "PLMBV12-1.02.06.02.04E2(K3+440-K3+600)",
+      "name": ""
+    },
+    {
+      "id": "EM02VDPLS1000",
+      "name": "Pilotes (3+440 a 3+600)"
+    },
+    {
+      "id": "PLMBV12-1.02.07.02.01ESTRUCTURA",
+      "name": ""
+    },
+    {
+      "id": "PLMBV12-1.02.07.02.02MEP",
+      "name": ""
+    },
+    {
+      "id": "EM02NV1080",
+      "name": "Conexiones e Instalación Redes de Servicios Públicos"
+    },
+    {
+      "id": "EM02NV1070",
+      "name": "MEP (Eléctricos, Mecánicos, Hidrosanitarios)"
+    },
+    {
+      "id": "PLMBV12-1.02.07.02.04ACABADOS",
+      "name": ""
+    },
+    {
+      "id": "EM02NV1150",
+      "name": "Trabajos Arquitectónicos (Fachadas, Cerramientos, Cubierta, Pintura, Acabados, Piso, Techo)"
+    },
+    {
+      "id": "PLMBV12-1.02.08.01.01E02EDIFICIOASCENDENTE1",
+      "name": ""
+    },
+    {
+      "id": "PLMBV12-1.02.08.01.01.2SUBESTRUCTURA",
+      "name": ""
+    },
+    {
+      "id": "EM02AB1AS1010",
+      "name": "Pilotes"
+    },
+    {
+      "id": "EM02AB1AS1030",
+      "name": "Dados y losa de nivel de acceso"
+    },
+    {
+      "id": "PLMBV12-1.02.08.01.01.3SUPERESTRUCTURA",
+      "name": ""
+    },
+    {
+      "id": "PLMBV12-1.02.08.01.01.3.1Estructuradeconcreto",
+      "name": ""
+    },
+    {
+      "id": "EM02AB1AS1040",
+      "name": "Superestructura edificio"
+    },
+    {
+      "id": "PLMBV12-1.02.08.01.01.3.2Estructurametalica",
+      "name": ""
+    },
+    {
+      "id": "EM02AB1AS1050",
+      "name": "Estructura de acero"
+    },
+    {
+      "id": "PLMBV12-1.02.08.01.01.4MEP",
+      "name": ""
+    },
+    {
+      "id": "EM02AB1AS1060",
+      "name": "MEP"
+    },
+    {
+      "id": "PLMBV12-1.02.08.01.01.6ACABADOS",
+      "name": ""
+    },
+    {
+      "id": "EM02AB1AS1070",
+      "name": "Fachada"
+    },
+    {
+      "id": "EM02AB1AS1200",
+      "name": "Acabados interiores"
+    },
+    {
+      "id": "PLMBV12-1.02.08.01.01.7URBANISMOYPAISAJISMO",
+      "name": ""
+    },
+    {
+      "id": "EM02AB1AS1080",
+      "name": "Urbanismo, Espacio Publico y Paisajismo"
+    },
+    {
+      "id": "PLMBV12-1.02.08.01.1E02EDIFICIOASCENDENTE2",
+      "name": ""
+    },
+    {
+      "id": "PLMBV12-1.02.08.01.1.2SUBESTRUCTURA",
+      "name": ""
+    },
+    {
+      "id": "PLMBV12-1.02.08.01.1.3SUPERESTRUCTURA",
+      "name": ""
+    },
+    {
+      "id": "PLMBV12-1.02.08.01.1.3.1Estructuradeconcreto",
+      "name": ""
+    },
+    {
+      "id": "PLMBV12-1.02.08.01.1.3.2Estructurametalica",
+      "name": ""
+    },
+    {
+      "id": "EM02AB2AS1150",
+      "name": "Pasarelas"
+    },
+    {
+      "id": "PLMBV12-1.02.08.01.1.4MEP",
+      "name": ""
+    },
+    {
+      "id": "EM02AB2AS1160",
+      "name": "MEP"
+    },
+    {
+      "id": "PLMBV12-1.02.08.01.1.6ACABADOS",
+      "name": ""
+    },
+    {
+      "id": "EM02AB2AS1170",
+      "name": "Fachada"
+    },
+    {
+      "id": "EM02AB2AS1230",
+      "name": "Acabados arquitectónicos"
+    },
+    {
+      "id": "PLMBV12-1.02.08.01.1.7URBANISMOYPAISAJISMO",
+      "name": ""
+    },
+    {
+      "id": "EM02AB2AS1180",
+      "name": "Urbanismo, Espacio Publico y Paisajismo"
+    }
+  ],
+  "sourceBounds": {
+    "min": [
+      89457.95375937478,
+      103607.08658048534,
+      2497.550001489257
+    ],
+    "max": [
+      89594.12434999978,
+      103849.17372421848,
+      2568.3439872802724
+    ]
+  },
+  "omittedCurveGeometry": 741
+}
